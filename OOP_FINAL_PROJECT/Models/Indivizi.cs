@@ -7,6 +7,6 @@ namespace OOP_FINAL_PROJECT.Models
 {
     public class Indivizi
     {
-
+        //Hello there
     }
 }
