@@ -12,6 +12,7 @@ namespace OOP_FINAL_PROJECT.Controllers
         public ActionResult Index()
         {
             return View();
+            //l,iiojijhuyih
         }
     }
 }
