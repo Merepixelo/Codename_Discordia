@@ -7,6 +7,9 @@ namespace OOP_FINAL_PROJECT.Models
 {
     public class Indivizi
     {
+        
 
+
+        //Sault sunt Tundor mon
     }
 }
